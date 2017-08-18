@@ -1,0 +1,6 @@
+D:\Antony\Projects\Practice\ReadCertificate\bin\Debug\ReadCertificate.exe.config
+D:\Antony\Projects\Practice\ReadCertificate\bin\Debug\ReadCertificate.exe
+D:\Antony\Projects\Practice\ReadCertificate\bin\Debug\ReadCertificate.pdb
+D:\Antony\Projects\Practice\ReadCertificate\obj\Debug\ReadCertificate.csprojResolveAssemblyReference.cache
+D:\Antony\Projects\Practice\ReadCertificate\obj\Debug\ReadCertificate.exe
+D:\Antony\Projects\Practice\ReadCertificate\obj\Debug\ReadCertificate.pdb

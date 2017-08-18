@@ -1,0 +1,6 @@
+D:\Antony\Projects\Practice\BaseExample\bin\Debug\BaseExample.exe.config
+D:\Antony\Projects\Practice\BaseExample\bin\Debug\BaseExample.exe
+D:\Antony\Projects\Practice\BaseExample\bin\Debug\BaseExample.pdb
+D:\Antony\Projects\Practice\BaseExample\obj\Debug\BaseExample.csprojResolveAssemblyReference.cache
+D:\Antony\Projects\Practice\BaseExample\obj\Debug\BaseExample.exe
+D:\Antony\Projects\Practice\BaseExample\obj\Debug\BaseExample.pdb

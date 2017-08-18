@@ -1,0 +1,6 @@
+D:\Antony\Projects\Practice\Guid\bin\Debug\Guid.exe.config
+D:\Antony\Projects\Practice\Guid\bin\Debug\Guid.exe
+D:\Antony\Projects\Practice\Guid\bin\Debug\Guid.pdb
+D:\Antony\Projects\Practice\Guid\obj\Debug\Guid.csprojResolveAssemblyReference.cache
+D:\Antony\Projects\Practice\Guid\obj\Debug\Guid.exe
+D:\Antony\Projects\Practice\Guid\obj\Debug\Guid.pdb
